@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+  React is a library that provides the ability to update data in a component as it changes in a database. It also helps with performance issues by utilizing a virtual DOM instead of manipulating singular DOM elements.
+
 - [ ] What does it mean to _think_ in react?
+
+  Thinking in react means you analyze what data has to be passed around and how to do it.
 
 - [ ] Describe state.
 
+  State is the representation of the current data. State is immutable but can be replaced by an updated state.
+
 - [ ] Describe props.
+
+  Props delivers the data held in state around the page and to child components.
 
 ## Project Set Up
 
