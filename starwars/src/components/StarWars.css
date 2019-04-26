@@ -1,0 +1,14 @@
+.character ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.character h1 {
+  font-size: 1.8rem;
+}
+
+.character {
+  width: 30%;
+  background-color: #e8bcbebd;
+  margin: 20px;
+}
